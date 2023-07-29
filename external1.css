@@ -1,0 +1,24 @@
+a:hover
+{
+    color: red;
+    font-size: 100px;
+    font-style: italic;
+    font-display: bold;
+}
+a:active
+{
+    color: black;
+}
+a:visited
+{
+    color: blue;
+}
+div:hover
+{
+    background-color: green;
+    font-size: 100px;
+}
+div:active
+{
+    background-color: brown;
+}
